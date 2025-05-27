@@ -3,3 +3,5 @@
 - "A tecnologia está sempre mudando, mas sua vontade de aprender é a chave para acompanhar!"
 - "Erros são apenas testes do caminho certo. Cada bug resolvido é um nível que você sobe!"
 - "Front-end não é só código—é criatividade, impacto e experiência! Faça seu trabalho brilhar!"
+
+ADICIONANDO ESSA ALTERAÇÃO PARA QUE FIQUE NO PX COMMIT
